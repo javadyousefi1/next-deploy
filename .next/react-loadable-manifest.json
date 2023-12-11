@@ -1,0 +1,35 @@
+{
+  "index.js -> @/components/CustomSvg": {
+    "id": 7921,
+    "files": [
+      "static/chunks/921.8a8cc1f099c32577.js"
+    ]
+  },
+  "index.js -> @/components/Drill1": {
+    "id": 2063,
+    "files": [
+      "static/chunks/864.5083030f100e5f4c.js",
+      "static/chunks/63.4854fd62a0324ae2.js"
+    ]
+  },
+  "index.js -> @/components/Drill2": {
+    "id": 1344,
+    "files": [
+      "static/chunks/864.5083030f100e5f4c.js",
+      "static/chunks/344.ab9dac3967564487.js"
+    ]
+  },
+  "index.js -> @/components/Human": {
+    "id": 6555,
+    "files": [
+      "static/chunks/555.003073d39d75ea4a.js"
+    ]
+  },
+  "index.js -> @/components/Test2": {
+    "id": 8578,
+    "files": [
+      "static/chunks/260fb190.9253bd9aaf879ae7.js",
+      "static/chunks/754.d379020710a7e4c6.js"
+    ]
+  }
+}
